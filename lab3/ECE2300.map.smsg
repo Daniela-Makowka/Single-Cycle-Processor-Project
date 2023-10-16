@@ -1,0 +1,5 @@
+Info (10281): Verilog HDL Declaration information at alu.v(2): object "A" differs only in case from object "a" in the same scope File: C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/alu.v Line: 2
+Info (10281): Verilog HDL Declaration information at alu.v(3): object "B" differs only in case from object "b" in the same scope File: C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/alu.v Line: 3
+Info (10281): Verilog HDL Declaration information at alu.v(7): object "C" differs only in case from object "c" in the same scope File: C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/alu.v Line: 7
+Info (10281): Verilog HDL Declaration information at adder.v(10): object "C" differs only in case from object "c" in the same scope File: C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/adder.v Line: 10
+Info (10281): Verilog HDL Declaration information at cpu.v(20): object "H" differs only in case from object "h" in the same scope File: C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/cpu.v Line: 20

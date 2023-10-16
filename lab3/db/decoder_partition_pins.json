@@ -1,0 +1,161 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "DR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DR[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SB[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SB[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SB[2]",
+					"strict" : false
+				},
+				{
+					"name" : "IMM[0]",
+					"strict" : false
+				},
+				{
+					"name" : "IMM[1]",
+					"strict" : false
+				},
+				{
+					"name" : "IMM[2]",
+					"strict" : false
+				},
+				{
+					"name" : "IMM[3]",
+					"strict" : false
+				},
+				{
+					"name" : "IMM[4]",
+					"strict" : false
+				},
+				{
+					"name" : "IMM[5]",
+					"strict" : false
+				},
+				{
+					"name" : "MB",
+					"strict" : false
+				},
+				{
+					"name" : "FS[0]",
+					"strict" : false
+				},
+				{
+					"name" : "FS[1]",
+					"strict" : false
+				},
+				{
+					"name" : "FS[2]",
+					"strict" : false
+				},
+				{
+					"name" : "MD",
+					"strict" : false
+				},
+				{
+					"name" : "LD",
+					"strict" : false
+				},
+				{
+					"name" : "MW",
+					"strict" : false
+				},
+				{
+					"name" : "INST[3]",
+					"strict" : false
+				},
+				{
+					"name" : "INST[15]",
+					"strict" : false
+				},
+				{
+					"name" : "INST[12]",
+					"strict" : false
+				},
+				{
+					"name" : "INST[13]",
+					"strict" : false
+				},
+				{
+					"name" : "INST[14]",
+					"strict" : false
+				},
+				{
+					"name" : "INST[6]",
+					"strict" : false
+				},
+				{
+					"name" : "INST[4]",
+					"strict" : false
+				},
+				{
+					"name" : "INST[7]",
+					"strict" : false
+				},
+				{
+					"name" : "INST[5]",
+					"strict" : false
+				},
+				{
+					"name" : "INST[8]",
+					"strict" : false
+				},
+				{
+					"name" : "INST[9]",
+					"strict" : false
+				},
+				{
+					"name" : "INST[10]",
+					"strict" : false
+				},
+				{
+					"name" : "INST[11]",
+					"strict" : false
+				},
+				{
+					"name" : "INST[0]",
+					"strict" : false
+				},
+				{
+					"name" : "INST[1]",
+					"strict" : false
+				},
+				{
+					"name" : "INST[2]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

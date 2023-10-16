@@ -1,0 +1,32 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/logical.v}
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/alu.v}
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/adder.v}
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3dram.v}
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/hex_to_seven_seg.v}
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/decoder.v}
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/var_clk.v}
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/shifter.v}
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3.v}
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/control.v}
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/cpu.v}
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/registerFile.v}
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3_top.v}
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/dual_reg_in.v}
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/HaltLogic.v}
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3iram1g.v}
+
+vlog -vlog01compat -work work +incdir+C:/Users/sarah/OneDrive/Desktop/ECE\ 2300\ Digital\ Logic/Labs/lab3/lab3 {C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3_test.v}
+
+vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -voptargs="+acc"  lab3_test
+
+add wave *
+view structure
+view signals
+run -all

@@ -1,0 +1,409 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/simulation/modelsim
+vadder
+Z1 !s110 1668032249
+!i10b 1
+!s100 Q`:DHWhUa0SREBh?TWDNk3
+IW`Mgn8DRdP4ia0@Y92FSl3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1667101640
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/adder.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/adder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1668032249.000000
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/adder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/adder.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3}
+Z7 tCvgOpt 0
+valu
+R1
+!i10b 1
+!s100 iKNRYe`S[nI:XWH>57mfm2
+Ig`Ib[bOIaE`N5BIi_?;Y=3
+R2
+R0
+w1667934367
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/alu.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/alu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/alu.v|
+!i113 1
+R5
+R6
+R7
+vcontrol
+Z8 !s110 1668032250
+!i10b 1
+!s100 kEUeCJF9ZT4ID59l5h5C10
+IWTaQSG4VK;X7Ddlof_K>F2
+R2
+R0
+w1667111060
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/control.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/control.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/control.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/control.v|
+!i113 1
+R5
+R6
+R7
+vcpu
+R8
+!i10b 1
+!s100 m??<n<9Af<fUbH4LK`lT>0
+Ig=:IT@aaGa?G21Nh9@kkW0
+R2
+R0
+w1668030819
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/cpu.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/cpu.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z9 !s108 1668032250.000000
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/cpu.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/cpu.v|
+!i113 1
+R5
+R6
+R7
+vdecoder
+R1
+!i10b 1
+!s100 Xni00^g??>1b54?2PJbDG2
+IF^QD29i7lW;PFjR_FCF521
+R2
+R0
+w1668025406
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/decoder.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/decoder.v|
+!i113 1
+R5
+R6
+R7
+vdual_reg_in
+R8
+!i10b 1
+!s100 DA8ImlDoYb9<@BDI5hb0;3
+I<hW>k>cN8=@b3Lgf0DjS>2
+R2
+R0
+Z10 w1667659109
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/dual_reg_in.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/dual_reg_in.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/dual_reg_in.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/dual_reg_in.v|
+!i113 1
+R5
+R6
+R7
+vHaltLogic
+R8
+!i10b 1
+!s100 G0XU2kmHN2;UhlOH7AoPU2
+Ij<GGcQ6Q0z78Hd9Z3n5nB2
+R2
+R0
+w1667944148
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/HaltLogic.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/HaltLogic.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/HaltLogic.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/HaltLogic.v|
+!i113 1
+R5
+R6
+R7
+n@halt@logic
+vhex_to_seven_seg
+R1
+!i10b 1
+!s100 3W=9TK2]oc_=CE>Si:VH>3
+IR2C4@oQ@U@kZGNhSoN_ZP0
+R2
+R0
+R10
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/hex_to_seven_seg.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/hex_to_seven_seg.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/hex_to_seven_seg.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/hex_to_seven_seg.v|
+!i113 1
+R5
+R6
+R7
+vlab3
+R1
+!i10b 1
+!s100 PPk_kGd190dbU>Mmo3FS`1
+I2c:;361<dBVAMzB;J;J941
+R2
+R0
+w1668026062
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3.v|
+!i113 1
+R5
+R6
+R7
+vlab3_test
+R8
+!i10b 1
+!s100 nAQ>6`;8ET4Fj`JAMz:lk3
+I?zl9cHW[T;Pk7BHHZMJQf1
+R2
+R0
+R10
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3_test.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3_test.v
+L0 20
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3_test.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3_test.v|
+!i113 1
+R5
+R6
+R7
+vlab3_top
+R8
+!i10b 1
+!s100 B`bb9=ZMAdFQKR<cLT1Bb1
+IZC2^8oF>0BOX2fjCRPzC31
+R2
+R0
+R10
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3_top.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3_top.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3_top.v|
+!i113 1
+R5
+R6
+R7
+vlab3dram
+R1
+!i10b 1
+!s100 Ki9>DOZ?Z]MID7oInAZ]>3
+I;8kV7Si@SLOaF7ni7J`Hd2
+R2
+R0
+R10
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3dram.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3dram.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3dram.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3dram.v|
+!i113 1
+R5
+R6
+R7
+vlab3iram1G
+R8
+!i10b 1
+!s100 fQ=_ck@HKd877CAe61Pa10
+I?PO5]2<k9G@_HfYF_70`60
+R2
+R0
+R10
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3iram1g.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3iram1g.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3iram1g.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/lab3iram1g.v|
+!i113 1
+R5
+R6
+R7
+nlab3iram1@g
+vlogical
+R1
+!i10b 1
+!s100 jAgcS[d9oB^KmNoDHWISa2
+IYmcJSdQEA4^F0G8fbkh2]0
+R2
+R0
+w1667112746
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/logical.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/logical.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/logical.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/logical.v|
+!i113 1
+R5
+R6
+R7
+vpclock
+R1
+!i10b 1
+!s100 HaF_PGWS;O@i6IQl`6SkA1
+IojQE><iGAfOO9>@nO;jF;2
+R2
+R0
+R10
+Z11 8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/var_clk.v
+Z12 FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/var_clk.v
+L0 52
+R3
+r1
+!s85 0
+31
+R4
+Z13 !s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/var_clk.v|
+Z14 !s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/var_clk.v|
+!i113 1
+R5
+R6
+R7
+vRegisterFile
+R8
+!i10b 1
+!s100 327[TAD79SDM@ekVLk=WL1
+ILmIn=d8KmLXRY47Mzj5l`3
+R2
+R0
+w1668032153
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/registerFile.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/registerFile.v
+L0 1
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/registerFile.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/registerFile.v|
+!i113 1
+R5
+R6
+R7
+n@register@file
+vshifter
+R1
+!i10b 1
+!s100 K2Tbj_7nDOn2SU]@j^O[V0
+IOVC6TBjocYfe9_MnQUFD80
+R2
+R0
+w1667110093
+8C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/shifter.v
+FC:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/shifter.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/shifter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3|C:/Users/sarah/OneDrive/Desktop/ECE 2300 Digital Logic/Labs/lab3/lab3/shifter.v|
+!i113 1
+R5
+R6
+R7
+vvar_clk
+R1
+!i10b 1
+!s100 I74T7433gZW:e1zM[;`U`3
+ID6^EH[_5ae?DTCf]OVPzC0
+R2
+R0
+R10
+R11
+R12
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+R13
+R14
+!i113 1
+R5
+R6
+R7

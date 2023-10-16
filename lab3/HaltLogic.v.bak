@@ -1,0 +1,7 @@
+module HaltLogic(HALT, EN_L, H);
+
+input HALT;
+input EN_L;
+
+output H;
+
